@@ -18,7 +18,7 @@ public class Tela extends JFrame{
     public Tela() {
         painel = new JPanel();
         jtxTexto = new JTextArea();
-        scroll = new JScrollPane();
+        scroll = new JScrollPane(jtxTexto);
         //Textos
         jlFonte = new JLabel("Fonte: ");
         jlTamanho = new JLabel("Tamanho: ");
@@ -54,7 +54,7 @@ public class Tela extends JFrame{
         //painel.setBackground(Color.cyan);
         painel.setLayout(null);
         jtxTexto.setBounds(10, 130, 565,420);
-        painel.add(jtxTexto);
+        scroll.setBounds(10, 130, 565, 420);
         jtxTexto.setLineWrap(true);
         jtxTexto.setWrapStyleWord(true);
         jtxTexto.setBorder(BorderFactory.createLineBorder(Color.black));
