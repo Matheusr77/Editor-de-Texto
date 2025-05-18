@@ -24,7 +24,7 @@ public class Tela extends JFrame{
         jlTamanho = new JLabel("Tamanho: ");
         jlCor = new JLabel("Cor: ");
         //Botões
-        jbAlterar = new JButton("Alterar Formatção");
+        jbAlterar = new JButton("Alterar Formatação");
         jbLimpar = new JButton("Limpar Formatação");
         jbApagar = new JButton("Apagar Texto");
         //Botões de Seleção
