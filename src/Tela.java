@@ -2,7 +2,6 @@ import javax.swing.*;
 import java.awt.Color;
 import java.awt.Font;
 
-
 public class Tela extends JFrame{
     private JPanel painel;
     private JTextArea jtxTexto;
