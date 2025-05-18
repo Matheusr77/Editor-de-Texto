@@ -3,7 +3,7 @@
 Este projeto é uma aplicação Java que simula um pequeno editor de texto com funcionalidades de formatação de fonte, cor, estilo e tamanho. 
 Foi desenvolvido como parte de uma atividade da disciplina **POO 2 (Programação Orientada a Objetos II)**.
 
-![Editor de Texto](screenshot-editor.png)
+<img src="screenshot-editor.png" alt="Editor de Texto" width="400"/>
 
 ## ✨ Funcionalidades
 
