@@ -1,4 +1,4 @@
-# Editor de Texto com Formatação - Lista 2
+# Editor de Texto com Formatação
 
 Este projeto é uma aplicação Java que simula um pequeno editor de texto com funcionalidades de formatação de fonte, cor, estilo e tamanho. 
 Foi desenvolvido como parte de uma atividade da disciplina **POO 2 (Programação Orientada a Objetos II)**.
